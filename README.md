@@ -1,3 +1,15 @@
+<!-- fork-notice:start -->
+> [!NOTE]
+> **This is a fork** of [`caelestia-dots/shell`](https://github.com/caelestia-dots/shell). Upstream is tracked on `main`; this fork's work lives on `custom`.
+>
+> **What's different from upstream:**
+> - Upstream sync 2026-10-30 (`b51fdb35c`): video wallpapers + transitions, the wallpaper pause toggle, the new `Multimedia/Visual` stack, `daemons/` + `State/` service modules, and the `caelestia::shell` C++ namespace.
+> - No fork-specific code yet — this fork currently adds only its own documentation (`AGENTS.md`, `CLAUDE.md`, `DOCS.md`, `NOTES.md`, `VERSIONS.md`).
+> - Planned: R-003 moveable taskbar · R-004 live-wallpaper control layer (auto-pause rules, animated GIFs).
+>
+> Last synced upstream SHA: `b51fdb35ca7a14ac5a49e0d94fc5de2d79756aed` (2026-10-30) · Full story: [DOCS.md](DOCS.md)
+<!-- fork-notice:end -->
+
 <h1 align=center>caelestia-shell</h1>
 
 <div align=center>
