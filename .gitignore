@@ -4,3 +4,9 @@
 build/
 .cache/
 logs
+
+AGENTS.md
+CLAUDE.md
+DOCS.md
+NOTES.md
+VERSIONS.md
