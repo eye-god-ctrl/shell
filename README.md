@@ -6,7 +6,7 @@
 > - Upstream sync 2026-10-30 (`b51fdb35c`): video wallpapers + transitions, the wallpaper pause toggle, the new `Multimedia/Visual` stack, `daemons/` + `State/` service modules, and the `caelestia::shell` C++ namespace.
 > - Planned: R-003 moveable taskbar · R-004 live-wallpaper control layer (auto-pause rules, animated GIFs).
 >
-> Last synced upstream SHA: `b51fdb35ca7a14ac5a49e0d94fc5de2d79756aed` (2026-10-30) · Full story: [DOCS.md](DOCS.md)
+> Last synced upstream SHA: `fd630ffedd45eb31817e9a1726a0f567e79f65e2` (2026-11-15) · Full story: [DOCS.md](DOCS.md)
 <!-- fork-notice:end -->
 
 <h1 align=center>caelestia-shell</h1>
